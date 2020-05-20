@@ -1,0 +1,21 @@
+.header-text {
+  text-align: center;
+}
+
+.hobbies,
+.languages {
+  background-color: green;
+}
+
+.heading {
+  font-family: Arial;
+  color: white;
+}
+
+.first {
+  color: cyan;
+}
+
+ol li.strike {
+  text-decoration-line: line-through;
+}
